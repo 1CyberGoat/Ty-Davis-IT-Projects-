@@ -4,7 +4,7 @@
 
 <h2>👨‍💻 IT / Network Configuration Projects:</h2>
 
-- <b> DHCP Pool Configuration  </b>
+[DHCP Pool Configuration Project](https://github.com/1CyberGoat/DHCP-Pool-Configuration-Cisco-Packet-Tracer)
 
  
 <h2> 🤳 Connect with me:</h2>
