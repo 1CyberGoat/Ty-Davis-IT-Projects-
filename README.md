@@ -1,4 +1,6 @@
-<h1>Hi, I'm Ty! </h1>
+<h1>Hi, I'm Ty!</h1>
+
+ 🌐 IT enthusiast leveling up with A+ and Net+. 💡 Passionate about networking—it's my digital adventure, like gaming for geeks! 🎮 Future SOC Analyst in the making. Join me on this tech odyssey! 💻 </h1>
 
 <h2>👨‍💻 IT / Network Configuration Projects:</h2>
 
